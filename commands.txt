@@ -1,0 +1,7 @@
+npx license mit > LICENSE && npx gitignore node && git init && npm init -y
+npm i express express-graphql
+
+
+https://graphql.org/graphql-js/running-an-express-graphql-server/
+
+npm i standard -D -> check if our code is correct
